@@ -1,6 +1,6 @@
 baseURL: "https://yogheswaran-a.github.io/personalwebsite/"
-title: Yoghes Waran 🤖
-paginate: 20
+title: Yoghes Waran
+#paginate: 20
 theme: PaperMod
 
 enableRobotsTXT: true
