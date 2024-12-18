@@ -73,7 +73,7 @@ params:
   profileMode:
     enabled: true
     title: "Vanakkam Namaste Welcome!👋" # optional default will be site title
-    subtitle: "A curious wanderer 🤖 of this planet seeking the best possible answers while navigating through various challenges. In this narrative, I try to document my journey of exploration, discovery and invention as I strive to elevate my understanding across multiple dimensions."
+    subtitle: "A curious wanderer 🎇 of this planet seeking the best possible answers while navigating through various challenges. In this narrative, I try to document my journey of exploration, discovery and invention as I strive to elevate my understanding across multiple dimensions."
     imageUrl: "images/homepage/profile_pic.png" # optional
     imageTitle: "India Gate, Delhi" # optional
     imageWidth: 120 # custom size
