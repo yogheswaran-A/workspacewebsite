@@ -16,7 +16,7 @@ draft: false
 
 ## Introduction
 
-This is about the paper [Toward Falsifying Causal Graphs Using a Permutation-Based Test](https://arxiv.org/abs/2305.09565). This is a quick and brief notes on what question this paper aims to solve.
+This is about the paper [Toward Falsifying Causal Graphs Using a Permutation-Based Test](https://arxiv.org/abs/2305.09565). This is a my notes on what question this paper aims to solve and how.
 
 ### Contents
 - The problem statement
@@ -39,7 +39,7 @@ X \perp D \mid PA
 $$
 Given its parents (PA) in the DAG, a node (X) - is independent of all its non-descendants (D).
 
-### Local Markov Assumption
+#### Local Markov Assumption
 
 The **Local Markov assumption** is a property of Bayesian networks. It states that:
 
@@ -64,13 +64,10 @@ In this example:
 - **Dark (D)** directly influences both **Switch (S)** and **Bulb (B)**.
 - **Switch (S)** directly influences **Bulb (B)**.
 
-### Local Markov Assumption Application
-
-The Local Markov assumption for this network is as follows:
+The Local Markov assumption for this DAG is as follows:
 - **Switch(S)** is conditionally independent of **Bulb (B)**, given **Dark (D)**.
 
-
-### Code Example in Python
+#### DAG in Python
 
 Below is an example using Python to demonstrate conditional independence based on the Local Markov assumption:
 
@@ -92,7 +89,9 @@ plt.show()
 ![img](img/CI_refute_1.png)
 
 
+#### LMC in Python
 
+The below code is to check conditional independence using HSIC.
 
 
 
