@@ -1,6 +1,6 @@
 ---
 title: "Understanding Weiner Process"
-date: 2025-06-7T10:02:00+00:00
+date: 2025-06-01T10:02:00+00:00
 slug: 
 category: Math, Diffusion, Stochastic Process
 summary:
