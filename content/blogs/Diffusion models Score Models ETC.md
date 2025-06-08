@@ -1,8 +1,8 @@
 ---
-title: "Diffusion models, Score based models, Rectiflow, Heirrachical VAEs: Basics and a unified View"
-date: 2025-06-10T10:02:00+00:00
-slug: 
-category: Diffusion
+title: "Test 1"
+date: 2025-01-01T10:02:00+00:00
+slug: test 1
+category: causal inference
 summary:
 description:
 cover:
