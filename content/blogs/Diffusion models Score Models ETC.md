@@ -1,6 +1,6 @@
 ---
 title: "Diffusion models, Score based models, Rectiflow, Heirrachical VAEs: Basics and a unified View"
-date: 2025-02-6T10:02:00+00:00
+date: 2025-06-10T10:02:00+00:00
 slug: dmsbmrhvsbaau
 category: Diffusion, SDEs, Rectiflow, VAEs
 summary:
