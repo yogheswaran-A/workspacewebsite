@@ -1,5 +1,5 @@
 ---
-title: "Test 1"
+title: "Cooking something new"
 date: 2025-06-06T10:02:00+00:00
 slug: test 1
 category: causal inference
