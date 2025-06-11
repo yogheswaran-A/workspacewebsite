@@ -2,7 +2,7 @@
 title: "Understanding Weiner Process"
 date: 2025-06-05T10:02:00+00:00
 slug: 
-category: Math, Diffusion, Stochastic Process
+category: Math, Diffusion, Stochastic Process, SDE
 summary:
 description:
 cover:
