@@ -1,6 +1,6 @@
 ---
 title: "Test 1"
-date: 2025-01-06T10:02:00+00:00
+date: 2025-06-06T10:02:00+00:00
 slug: test 1
 category: causal inference
 summary:
