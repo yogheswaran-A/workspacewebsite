@@ -24,4 +24,4 @@ In this section a brief informal intro to  wiener process and why stocastic calc
 To read more click the link below. Since writing math using plain html is time consuming, I use jupyter-book for wrtiing my blogs.
 (To read comfortably please toggle the side  bar)      
 
-**[https://yogheswaran-a.github.io/blogs/01-weiner-process.html](https://yogheswaran-a.github.io/blogs/01-weiner-process.html)**
+**[https://yogheswaran-a.github.io/blogs/01_weiner_process.html](https://yogheswaran-a.github.io/blogs/01_weiner_process.html)**

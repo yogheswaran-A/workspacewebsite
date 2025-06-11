@@ -31,7 +31,7 @@ Given Query ($Q$), Key ($K$), and Value ($V$) matrices for a sequence of length 
 To read more click the link below. Since writing math using plain html is time consuming, I use jupyter-book for wrtiing my blogs.
 (To read comfortably please toggle the side  bar)      
 
-**[https://yogheswaran-a.github.io/cuda-notes/04-flash-attention-II.html](https://yogheswaran-a.github.io/blogs/01-weiner-process.html)**
+**[https://yogheswaran-a.github.io/cuda-notes/04-flash-attention-II.html](https://yogheswaran-a.github.io/cuda-notes/04-flash-attention-II.html)**
 
 More Cuda blogs:   
 **[https://yogheswaran-a.github.io/cuda-notes/00-landing-page.html](https://yogheswaran-a.github.io/cuda-notes/00-landing-page.html)**

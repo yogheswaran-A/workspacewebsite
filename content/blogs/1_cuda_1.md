@@ -34,7 +34,7 @@ When a C++ program complied, the program is converted into machine code which ca
 To read more click the link below. Since writing math using plain html is time consuming, I use jupyter-book for wrtiing my blogs.
 (To read comfortably please toggle the side  bar)      
 
-**[https://yogheswaran-a.github.io/cuda-notes/01-getting-started.html](https://yogheswaran-a.github.io/blogs/01-weiner-process.html)**
+**[https://yogheswaran-a.github.io/cuda-notes/01-getting-started.html](https://yogheswaran-a.github.io/cuda-notes/01-getting-started.html)**
 
 More Cuda blogs:   
 **[https://yogheswaran-a.github.io/cuda-notes/00-landing-page.html](https://yogheswaran-a.github.io/cuda-notes/00-landing-page.html)**

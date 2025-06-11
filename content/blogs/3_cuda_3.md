@@ -28,7 +28,7 @@ The official documentation of [Cuda](https://docs.nvidia.com/cuda/cublas/) is ve
 To read more click the link below. Since writing math using plain html is time consuming, I use jupyter-book for wrtiing my blogs.
 (To read comfortably please toggle the side  bar)      
 
-**[https://yogheswaran-a.github.io/cuda-notes/03-flash-attention-I.html](https://yogheswaran-a.github.io/blogs/01-weiner-process.html)** 
+**[https://yogheswaran-a.github.io/cuda-notes/03-flash-attention-I.html](https://yogheswaran-a.github.io/cuda-notes/03-flash-attention-I.html)** 
 
 More Cuda blogs:   
 **[https://yogheswaran-a.github.io/cuda-notes/00-landing-page.html](https://yogheswaran-a.github.io/cuda-notes/00-landing-page.html)**
