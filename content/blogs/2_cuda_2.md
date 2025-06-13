@@ -1,5 +1,5 @@
 ---
-title: "Instruction Dispatch and Memory"
+title: "Cuda C++: Instruction Dispatch and Memory"
 date: 2025-06-02T10:02:00+00:00
 slug: 
 category: Cuda,Cuda C++, C++

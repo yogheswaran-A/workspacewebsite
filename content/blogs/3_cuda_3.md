@@ -1,5 +1,5 @@
 ---
-title: "Flash Attention - I"
+title: "Understanding Flash Attention: Part I"
 date: 2025-06-03T10:02:00+00:00
 slug: 
 category: Cuda,Cuda C++, C++

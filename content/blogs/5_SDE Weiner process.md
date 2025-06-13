@@ -1,5 +1,5 @@
 ---
-title: "Understanding Weiner Process"
+title: "SDE, Weiner Process, ITO's Lemma and Reverse Time Equation"
 date: 2025-06-05T10:02:00+00:00
 slug: 
 category: Math, Diffusion, Stochastic Process, SDE
