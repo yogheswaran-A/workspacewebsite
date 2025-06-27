@@ -1,8 +1,8 @@
 ---
 title: "Unifying theory of Diffusion Models"
 date: 2025-07-06T10:02:00+00:00
-slug: test 1
-category: causal inference
+slug: 
+category: 
 summary:
 description:
 cover:
