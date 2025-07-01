@@ -82,7 +82,7 @@ params:
       - name: Blogs
         url: "blogs"
       - name: CV
-        url: "resume.pdf"
+        url: "resume_updated.pdf"
 
   socialIcons: # optional
   #  - name: "<platform>"
@@ -145,7 +145,7 @@ menu:
   main:
     - identifier: cv
       name: CV
-      url: resume.pdf
+      url: resume_updated.pdf
       weight: 1
     - identifier: blog
       name: Blogs
